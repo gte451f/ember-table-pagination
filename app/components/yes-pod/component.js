@@ -1,0 +1,1 @@
+export { default } from 'ember-table-pagination/components/yes-pod/component';

@@ -1,7 +1,7 @@
 {
   "name": "ember-table-pagination",
-  "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "version": "0.0.1",
+  "description": "Building on the work of giants, let's addon some partial goodness to existing pagination tools.",
   "directories": {
     "doc": "doc",
     "test": "tests"
